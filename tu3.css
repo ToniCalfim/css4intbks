@@ -28,8 +28,7 @@ body {
 	width: 100%;	
 	z-index: 49;
 	top: 0;
-	float: center;
-	align: center;
+	left: 0;
 	position: fixed;	
 	max-width: 93%;
 	
