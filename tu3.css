@@ -1,7 +1,6 @@
 body {
-  margin: 0;
-  padding: 0;
-  background-color: #111;
+
+  background-color: #555;
 }
 
 /*
@@ -26,13 +25,11 @@ body {
 /* Esse é justamente o livro */
     
 .__m__-r1o {
-	width: 100%;
-	
-	
+	width: 100%;	
 	z-index: 49;
 	top: 0;
 	left: 0;
 	position: fixed;	
-	max-width: 87vw;
+	max-width: 87%;
 	
     }
