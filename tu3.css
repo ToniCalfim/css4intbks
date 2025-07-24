@@ -24,14 +24,15 @@ body {
 
 
 /* Esse é justamente o livro */
-    .__m__-r1o {
+    
+.__m__-r1o {
 	
-	width: 100vw;
+	
 	
 	z-index: 49;
 	top: 0;
 	left: 0;
 	position: fixed;	
-	width: 100%;
+	max-width: 87vw;
 	
     }
