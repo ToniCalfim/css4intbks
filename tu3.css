@@ -5,7 +5,10 @@ body {
   color: #0f0;
 }
 
-/* ???, the name interactive book, the menus */
+.__m__-r1n {
+  display: none;
+}
+
 .__m__-r12  {
   display: none;  
 }
@@ -28,8 +31,4 @@ body {
 
 .m_8983817 {
   padding-top: 0;
-}
-
-.__m__-r1n {
-  display: none;
 }
