@@ -1,6 +1,6 @@
 body {
 
-  background-color: #555;
+  background-color: #ddd;
 }
 
 /*
@@ -28,7 +28,7 @@ body {
 	width: 100%;	
 	z-index: 49;
 	top: 0;
-	left: 0;
+	align: center;
 	position: fixed;	
 	max-width: 87%;
 	
