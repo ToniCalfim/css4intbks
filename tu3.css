@@ -5,39 +5,34 @@ body {
   color: #0f0;
 }
 
-.__m__-r1o {
-  max-width: 100%;
-  flex-basis: 100%;
+/*
+    .m_8a5d1357 {
+	display: none;
+    }
+
+*/
+
+/* Barra de título superior */
+.m_4081bf90  {
+	display: none;
 }
 
-.__m__-r1m {
-  display: none;
-}
+/* Aquele título "Livro Interativo" */
+.m_8a5d1357 { display: none; }
 
-.__m__-r1n {
-  display: none;
-}
+/* Aquele título DIV ao lado esquerdo */
+.__m__-r1n { display: none; }
 
-.__m__-r12  {
-  display: none;  
-}
 
-.m_8a5d1357  {
-  display: none;  
-}
-
-.m_4081bf90 {
-  display: none;  
-}
-
-.m_7485cace {
-  padding-block: 0;
-}
-
-.bookContainer {
-  position: sticky;  
-}
-
-.m_8983817 {
-  padding-top: 0;
-}
+/* Esse é justamente o livro */
+    .__m__-r1o {
+	
+	width: 100vw;
+	
+	z-index: 49;
+	top: 0;
+	left: 0;
+	position: fixed;	
+	width: 100%;
+	
+    }
