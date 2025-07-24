@@ -5,6 +5,11 @@ body {
   color: #0f0;
 }
 
+.__m__-r1o {
+  max-width: 100%;
+  flex-basis: 100%;
+}
+
 .__m__-r1m {
   display: none;
 }
