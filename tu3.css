@@ -1,8 +1,23 @@
 body {
-  background-color: #111;
-  color: #0f0;
+  margin: 0;
+  padding: 0;
+  background-color: #111 !important;
+  color: #0f0 !important;
 }
 
-a {
-  color: #0ff;
+/* ???, the name interactive book, the menus */
+.__m__-r12  {
+  display: none;  
+}
+
+.m_8a5d1357  {
+  display: none;  
+}
+
+.m_4081bf90 {
+  display: none;  
+}
+
+.m_7485cace {
+  padding-block: 0;
 }
