@@ -1,11 +1,6 @@
-* {
-  outline: 1px solid red;
-}
-
-body, html {
+body {
 	background-color: #blue;
-	margin: 0 !important;
-  padding: 0 !important;
+
 }
 
 /*
@@ -37,6 +32,4 @@ body, html {
 	left: 0;
 	position: fixed;	
 	max-width: 85%;	
-	 margin: 0 !important;
-  padding: 0 !important;
     }
