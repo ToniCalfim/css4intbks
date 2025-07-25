@@ -1,13 +1,7 @@
 body {
-	background-color: blue;
+	background-color: white;
 
 }
-
-/*
-.m_8a5d1357 {
-	display: none;
-}
-*/
 
 /* Barra de título superior */
 .m_4081bf90  {
@@ -25,17 +19,12 @@ body {
 }
 
 /* Esse é justamente o livro */    
-.__m__-r1o {
+.__m__-r1o {	
+	position: fixed;
 	width: 100%;	
-z-index: 2147483647;
-
-	position: fixed;	
-
-	left: 50%;
+	z-index: 49;
 	top: 50%; /* Quanto maior, mais pra baixo */
-	max-width: 87.5%;	
-
-	transform: translate(-50%, -51.5%); /*  51 é muito longe do tpo e 52 é muito perto*/
-
-
+	left: 50%;
+	max-width: 87.5%;
+	transform: translate(-50%, -51.5%);
     }
