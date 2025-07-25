@@ -1,5 +1,9 @@
+* {
+  outline: 1px solid red;
+}
+
 body, html {
-	background-color: #fff;
+	background-color: #blue;
 	margin: 0 !important;
   padding: 0 !important;
 }
