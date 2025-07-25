@@ -1,5 +1,7 @@
-body {
+body, html {
 	background-color: #000;
+	margin: 0 !important;
+  padding: 0 !important;
 }
 
 /*
@@ -31,4 +33,6 @@ body {
 	left: 0;
 	position: fixed;	
 	max-width: 85%;	
+	 margin: 0 !important;
+  padding: 0 !important;
     }
