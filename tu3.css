@@ -1,5 +1,5 @@
 body {
-	background-color: #blue;
+	background-color: blue;
 
 }
 
@@ -27,9 +27,15 @@ body {
 /* Esse é justamente o livro */    
 .__m__-r1o {
 	width: 100%;	
-	z-index: 49;
-	top: 0;
-	left: 0;
+z-index: 2147483647;
+
 	position: fixed;	
-	max-width: 85%;	
+
+	left: 50%;
+	top: 50%; /* Quanto maior, mais pra baixo */
+	max-width: 87.5%;	
+
+	transform: translate(-50%, -51.5%); /*  51 é muito longe do tpo e 52 é muito perto*/
+
+
     }
