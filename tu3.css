@@ -1,5 +1,5 @@
 body {
-	background-color: #FF0000 !important;
+	background-color: #FF0000;
 }
 
 /* Barra de título superior */
@@ -24,6 +24,6 @@ body {
 	z-index: 49;
 	top: 50%; /* Quanto maior, mais pra baixo */
 	left: 50%;
-	max-width: 85.5%;
+	max-width: 84.5%;
 	transform: translate(-50%, -51.5%);
     }
