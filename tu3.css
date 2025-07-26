@@ -23,6 +23,8 @@ body {
 .__m__-r1o {
 	z-index: 49;
 	width: 100%;
+
+	/* Precisou ser tão baixo por conta do laptop utilizado em Irará, pois porcentagem maior esconde parte do container */
 	max-width: 82.5%;
 	position: fixed;
 
