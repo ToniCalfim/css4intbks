@@ -1,9 +1,11 @@
 body {
-	background-color: #00FF00;
+	background-color: #000000;
 }
 
+/* Exibe/oculta a barra de favoritos no Chrome: ctrl + shift + b */
+
 /* Barra de título superior */
-.m_4081bf90  {
+.m_4081bf90 {
 	display: none;
 }
 
@@ -12,18 +14,19 @@ body {
 	display: none;
 }
 
-/* Aquele título DIV ao lado esquerdo */
+/* Aquela DIV insuportável ao lado esquerdo */
 .__m__-r1n {
 	display: none;
 }
 
-/* Esse é justamente o livro */    
-.__m__-r1o {	
-	position: fixed;
-	width: 100%;	
+/* O container do livro */
+.__m__-r1o {
 	z-index: 49;
-	top: 50%; /* Quanto maior, mais pra baixo */
-	left: 50%;
+	width: 100%;
 	max-width: 82.5%;
+	position: fixed;
+
+	top: 50%;
+	left: 50%;
 	transform: translate(-50%, -51.5%);
-    }
+}
