@@ -1,0 +1,41 @@
+body {
+	background-color: #FFFFFF;
+}
+
+
+/* Exibe/oculta a barra de favoritos no Chrome: ctrl + shift + b */
+
+
+/* Container pai em que fica o .bookContainer, que parece não ser carregado no load da página e assim não pode ser acessado */
+.__m__-r1o {
+
+	z-index: 49;
+
+	width: 100%;
+	max-width: 82.5%; /* Precisou ser tão baixo por conta do laptop utilizado em Irará, pois porcentagem maior esconde parte do container */
+	position: fixed;
+
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -51.5%);
+
+	background-color: #FFFFFF;
+}
+
+
+/* Barra de título superior e o rodapé */
+.m_4081bf90 {
+	display: none;
+}
+
+
+/* Aquele título "Livro Interativo" */
+.m_8a5d1357 {
+	display: none;
+}
+
+
+/* Aquela DIV insuportável ao lado esquerdo */
+.__m__-r1n {
+	display: none;
+}
