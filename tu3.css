@@ -12,7 +12,7 @@ body {
 	z-index: 49;
 
 	width: 100%;
-	max-width: 82.5%; /* Precisou ser tão baixo por conta do laptop utilizado em Irará, pois porcentagem maior esconde parte do container */
+	max-width: 82%; /* Precisa ser tão baixo por conta da combinação laptop e TV utilizadas, pois porcentagem maior esconde parte do container */
 	position: fixed;
 
 	top: 50%;
