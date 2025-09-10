@@ -39,3 +39,10 @@ body {
 .__m__-r1n {
 	display: none;
 }
+
+
+/* Botão direito de navegação */
+.flip_button_right {
+	background-color: lightgray;
+	border-radius: 15%;
+}
